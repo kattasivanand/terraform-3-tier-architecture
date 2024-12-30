@@ -358,7 +358,7 @@ output "lb_dns_name" {
 
 
 resource "aws_s3_bucket" "example" {
-  bucket = "cloudanddevopsbyraham0073456ccc.k8s.local"
+  bucket = "s3bucket4"
 
   tags = {
     Name        = "rahamtestbycketterra7788abcdefxxc"
